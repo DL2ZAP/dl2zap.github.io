@@ -8,3 +8,5 @@ Bumbling, childlike Mr. Bean (ingeniously played by Rowan Atkinson) has trouble 
 * sparing of words
 * loves his teddy
 * drives a lemmon-yellow Mini
+
+> Aaah! (From: Mr. Bean At The Movies)
