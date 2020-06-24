@@ -11,3 +11,5 @@ Bumbling, childlike Mr. Bean (ingeniously played by Rowan Atkinson) has trouble 
 
 > Aaah! (From: Mr. Bean At The Movies)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Atkinson_Rowan.jpg">
+
