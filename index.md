@@ -10,4 +10,6 @@ Bumbling, childlike Mr. Bean (ingeniously played by Rowan Atkinson) has trouble 
 * drives a lemmon-yellow Mini
 
 > Aaah! (From: Mr. Bean At The Movies)
+
 ![Rowan Atkinson as \"Mr. Bean\"](https://upload.wikimedia.org/wikipedia/commons/f/f1/Atkinson_Rowan.jpg)
+
